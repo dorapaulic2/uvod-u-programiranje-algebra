@@ -14,3 +14,14 @@ Zadaci fokusirani na matematičku izolaciju i manipulaciju znamenkama pomoću op
 * **Zadatak 6:** Provjera djeljivosti desetice s brojem 3 (Predavanja - Zadatak 5)
 * **Zadatak 7:** Izolacija sredine broja / izbacivanje prve i zadnje dvije (Predavanja - Zadatak 6)
 * **Zadatak 8:** Provjera koda dokumenta / razlika i parnost (Predavanja - Zadatak 7)
+
+
+### 🔄 c02_kontrola_toka
+Novi zadaci s predavanja koji pokrivaju petlje (`for`, `while`), uvjete (`if-else`) i grananja (`switch`):
+* **Zadatak 1:** Tablica množenja
+* **Zadatak 2:** FizzBuzz igra (djeljivost s 3 i 5)
+* **Zadatak 3:** Armstrongovi brojevi do 1000
+* **Zadatak 4:** Zbroj parnih i neparnih brojeva manjih od 100
+* **Zadatak 5:** Ispis ocjena pomoću `switch` metode
+* **Zadatak 6:** Izračun faktorijela zadanog broja
+* **Zadatak 7:** Pronalaženje najveće znamenke u broju
