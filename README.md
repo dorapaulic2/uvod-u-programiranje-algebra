@@ -26,3 +26,4 @@ Novi zadaci s predavanja koji pokrivaju petlje (`for`, `while`), uvjete (`if-els
 * **Zadatak 6:** Izračun faktorijela zadanog broja
 * **Zadatak 7:** Pronalaženje najveće znamenke u broju
 * **Zadatak 8:** Ispis dana u tjednu pomoću `switch` metode (Vježba)
+* **Zadatak 9:** Zadatak09._Semafor.java
