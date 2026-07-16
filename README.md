@@ -30,4 +30,5 @@ Novi zadaci s predavanja koji pokrivaju petlje (`for`, `while`), uvjete (`if-els
 * **Zadatak 10**: Zadatak10._IzracunTjedneZarade.java(Vježba)
 * **Zadatak 11**: Zadatak11_stanjeSkladišta.java(Vježba)
 * **Zadatak 12**: Zadatk12_provjeraLozinke.java(Vježba)
+* **Zadatak 13**: Analizator_ teksta _palindrom_detektor.java (Vježba)
 
